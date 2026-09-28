@@ -16,5 +16,5 @@
 * Открыт к заказам на разработку под ключ и удаленной работе. 
 
 📫 **Как связаться со мной:**
-* Telegram: [@vardges_grigoryan]
-* Email: [vardgesss.grigoryan@gmail.com]
+* Telegram: @vardges_grigoryan
+* Email: vardgesss.grigoryan@gmail.com
